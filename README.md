@@ -1,6 +1,6 @@
-# MUSA 620
+# MUSA 620 - Example Github hosted webpage
 
-My websites:
+Max's websites:
 - [Metrocosm](http://metrocosm.com)
 - [Elementus](https://elementus.io)
 - [FOIA Mapper](https://foiamapper.com)
