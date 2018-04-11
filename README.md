@@ -1,6 +1,3 @@
 # MUSA 620 - Example Github hosted webpage
 
-Max's websites:
-- [Metrocosm](http://metrocosm.com)
-- [Elementus](https://elementus.io)
-- [FOIA Mapper](https://foiamapper.com)
+See the hosted webpage here: [https://musa-620-spring-2018.github.io/](https://musa-620-spring-2018.github.io/)
